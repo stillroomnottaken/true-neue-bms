@@ -1,0 +1,2190 @@
+{
+ "pages": [
+  {
+   "id": "home",
+   "name": {
+    "en": "Home",
+    "id": "Beranda"
+   },
+   "slug": {
+    "en": "",
+    "id": ""
+   },
+   "title": {
+    "en": "PT Berkat Muri Sejahtera (BMS) | Agricultural Commodities, Supplied to Your Business",
+    "id": "PT Berkat Muri Sejahtera (BMS) | Komoditas Pertanian, Dipasok untuk Bisnis Anda"
+   },
+   "desc": {
+    "en": "Jakarta-based Indonesian trading company. We aggregate agricultural commodities, bio-based and industrial Product from suppliers and sell them to business buyers.",
+    "id": "Perusahaan perdagangan Indonesia berbasis Jakarta. Kami mengumpulkan komoditas pertanian, bahan berbasis hayati, dan material industri dari pemasok dan menjualnya kepada pembeli bisnis."
+   },
+   "sections": [
+    {
+     "id": "home-1",
+     "kind": "hero",
+     "name": "Hero",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 52,
+      "padBottom": 48,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 32,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "home-2",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "home-3",
+         "visible": true,
+         "style": {},
+         "type": "eyebrow",
+         "text": {
+          "en": "PT Berkat Muri Sejahtera · Jakarta, Indonesia",
+          "id": "PT Berkat Muri Sejahtera · Jakarta, Indonesia"
+         }
+        },
+        {
+         "id": "home-4",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 1,
+         "text": {
+          "en": "Agricultural commodities, supplied to your business",
+          "id": "Mitra pasokan komoditas untuk kebutuhan industri"
+         }
+        },
+        {
+         "id": "home-5",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "variant": "lead",
+         "text": {
+          "en": "BMS connects suppliers across Indonesia with business buyers. We aggregate agricultural and bio-based Product and supply them to manufacturers, processors and industrial buyers.",
+          "id": "BMS menghubungkan pasokan dari berbagai wilayah Indonesia dengan kebutuhan produsen, pengolah, dan pelaku industri. Beri tahu kami produk yang Anda cari, dan tim kami akan membantu menemukan pasokan yang sesuai."
+         }
+        },
+        {
+         "id": "home-6",
+         "visible": true,
+         "style": {
+          "layout": "row",
+          "gap": 12
+         },
+         "type": "container",
+         "children": [
+          {
+           "id": "home-7",
+           "visible": true,
+           "style": {},
+           "type": "button",
+           "href": "@about",
+           "variant": "gold",
+           "size": "lg",
+           "label": {
+            "en": "About Us",
+            "id": ""
+           },
+           "only": "en"
+          },
+          {
+           "id": "home-8",
+           "visible": true,
+           "style": {},
+           "type": "button",
+           "href": "@catalogue",
+           "variant": "line",
+           "size": "lg",
+           "label": {
+            "en": "Product Catalogue",
+            "id": ""
+           },
+           "only": "en"
+          }
+         ],
+         "only": "en"
+        },
+        {
+         "id": "home-9",
+         "visible": true,
+         "style": {
+          "layout": "row",
+          "gap": 12
+         },
+         "type": "container",
+         "children": [
+          {
+           "id": "home-10",
+           "visible": true,
+           "style": {},
+           "type": "button",
+           "href": "@contact",
+           "variant": "gold",
+           "size": "lg",
+           "label": {
+            "id": "HUBUNGI TIM BMS",
+            "en": ""
+           },
+           "only": "id"
+          }
+         ],
+         "only": "id"
+        }
+       ]
+      },
+      {
+       "id": "home-11",
+       "visible": true,
+       "style": {},
+       "type": "graphic",
+       "kind": "net"
+      }
+     ]
+    },
+    {
+     "id": "home-12",
+     "kind": "band",
+     "name": "Ribbon",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 32,
+      "padBottom": 32,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 28,
+      "align": "left"
+     },
+     "variant": "ribbon-maize",
+     "href": "@catalogue",
+     "children": [
+      {
+       "id": "home-13",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "Catalogue",
+        "id": "Katalog"
+       }
+      },
+      {
+       "id": "home-14",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "home-15",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "{count} Product, one supplier",
+          "id": "Beragam produk, satu mitra pengadaan"
+         }
+        },
+        {
+         "id": "home-16",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Agricultural commodities, bio-based Product and industrial resources.",
+          "id": "Temukan komoditas pertanian, produk berbasis hayati, hingga produk industri dalam satu katalog."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "home-17",
+     "kind": "band",
+     "name": "Ribbon",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 32,
+      "padBottom": 32,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 28,
+      "align": "left"
+     },
+     "variant": "ribbon-gold",
+     "href": "@supplier",
+     "hrefId": "@contact?intent=have",
+     "children": [
+      {
+       "id": "home-18",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "For suppliers",
+        "id": "Untuk pemasok"
+       }
+      },
+      {
+       "id": "home-19",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "home-20",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "Have a harvest or stock to supply?",
+          "id": "Ada hasil panen atau stok yang ingin dipasarkan?"
+         }
+        },
+        {
+         "id": "home-21",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Offer it to BMS by WhatsApp, email or a short form.",
+          "id": "Ceritakan komoditas yang tersedia. Kami akan membantu menghubungkannya dengan calon pembeli."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "home-22",
+     "kind": "band",
+     "name": "Ribbon",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 32,
+      "padBottom": 32,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 28,
+      "align": "left"
+     },
+     "variant": "ribbon-moss",
+     "href": "@buyers",
+     "hrefId": "@contact?intent=need",
+     "children": [
+      {
+       "id": "home-23",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "For buyers",
+        "id": "Untuk pembeli"
+       }
+      },
+      {
+       "id": "home-24",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "home-25",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "Looking for a material?",
+          "id": "Sedang mencari produk atau bahan baku?"
+         }
+        },
+        {
+         "id": "home-26",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Choose a material and send an enquiry to BMS.",
+          "id": "Sampaikan spesifikasi dan kebutuhan produk Anda. Kami akan membantu menemukan sumber pasokan yang sesuai."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "home-27",
+     "kind": "cta",
+     "name": "Call to action",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 52,
+      "padBottom": 28,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 40,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "home-28",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "home-29",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "Need a material, or can you supply one?",
+          "id": "Butuh pasokan atau ingin menawarkan komoditas?"
+         }
+        },
+        {
+         "id": "home-30",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Buyers order from BMS. Suppliers supply to BMS. Either way, talk to us.",
+          "id": "Baik untuk kebutuhan pembelian maupun penawaran pasokan, tim BMS siap berdiskusi dengan Anda."
+         }
+        }
+       ]
+      },
+      {
+       "id": "home-31",
+       "visible": true,
+       "style": {},
+       "type": "button",
+       "variant": "maize",
+       "size": "lg",
+       "label": {
+        "en": "CONTACT US",
+        "id": "HUBUNGI TIM BMS"
+       },
+       "href": "@contact"
+      }
+     ]
+    }
+   ],
+   "inBar": true,
+   "inMenu": true
+  },
+  {
+   "id": "about",
+   "name": {
+    "en": "About Us",
+    "id": "Tentang Kami"
+   },
+   "slug": {
+    "en": "about",
+    "id": "tentang"
+   },
+   "title": {
+    "en": "About Us | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Tentang Kami | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "PT Berkat Muri Sejahtera is an Indonesian trading company established in 2025 and based in Jakarta. It connects suppliers with business buyers through sourcing, aggregation and distribution.",
+    "id": "PT Berkat Muri Sejahtera adalah perusahaan perdagangan Indonesia yang didirikan pada 2025 dan berbasis di Jakarta. Perusahaan menghubungkan pemasok dengan pembeli bisnis lewat pengadaan, agregasi, dan distribusi."
+   },
+   "sections": [
+    {
+     "id": "about-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "variant": "head-maize",
+     "children": [
+      {
+       "id": "about-2",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "About Us",
+        "id": "Tentang Kami"
+       }
+      },
+      {
+       "id": "about-3",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "PT Berkat Muri Sejahtera",
+        "id": "PT Berkat Muri Sejahtera"
+       }
+      },
+      {
+       "id": "about-4",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "An Indonesian trading company established in 2025 and based in Jakarta, focused on sourcing, aggregation and distribution.",
+        "id": "Perusahaan perdagangan Indonesia yang didirikan pada 2025 dan berbasis di Jakarta, berfokus pada pengadaan, agregasi, dan distribusi."
+       }
+      }
+     ]
+    },
+    {
+     "id": "about-5",
+     "kind": "content",
+     "name": "Section",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 40,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "about-6",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "about-7",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "Company overview",
+          "id": "Gambaran perusahaan"
+         }
+        },
+        {
+         "id": "about-8",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "BMS connects two groups: suppliers who have agricultural and bio-based Product, and business buyers who need them. Suppliers can be individual farmers, farmer associations, collectors or other parties across Indonesia.",
+          "id": "BMS menghubungkan dua pihak: pemasok yang memiliki bahan pertanian dan berbasis hayati, dan pembeli bisnis yang membutuhkannya. Pemasok dapat berupa petani perorangan, kelompok tani, pengepul, atau pihak lain di seluruh Indonesia."
+         }
+        },
+        {
+         "id": "about-9",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "We aggregate supply from a growing base of suppliers, process it to the buyer's needs where required, and sell it to manufacturers, processors and industrial buyers.",
+          "id": "Kami mengumpulkan pasokan dari basis pemasok yang terus bertambah, mengolahnya sesuai kebutuhan pembeli bila diperlukan, lalu menjualnya kepada produsen, pengolah, dan pembeli industri."
+         }
+        },
+        {
+         "id": "about-10",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "The value BMS adds: suppliers get a single, accessible route to a buyer. Buyers get one company to ask for a material, instead of searching supplier by supplier.",
+          "id": "Nilai yang ditambahkan BMS: pemasok mendapat satu jalur yang mudah dijangkau menuju pembeli. Pembeli cukup bertanya ke satu perusahaan untuk sebuah material, tanpa mencari pemasok satu per satu."
+         }
+        },
+        {
+         "id": "about-11",
+         "visible": true,
+         "style": {
+          "layout": "row",
+          "gap": 0
+         },
+         "type": "container",
+         "variant": "steps",
+         "children": [
+          {
+           "id": "about-12",
+           "visible": true,
+           "style": {},
+           "type": "card",
+           "variant": "step",
+           "src": "",
+           "title": {
+            "en": "Indonesia",
+            "id": "Indonesia"
+           },
+           "text": {
+            "en": "Home market",
+            "id": "Pasar utama"
+           }
+          },
+          {
+           "id": "about-13",
+           "visible": true,
+           "style": {},
+           "type": "card",
+           "variant": "step",
+           "src": "",
+           "title": {
+            "en": "International",
+            "id": "Internasional"
+           },
+           "text": {
+            "en": "Growth ahead",
+            "id": "Pertumbuhan ke depan"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "about-14",
+       "visible": true,
+       "style": {},
+       "type": "facts",
+       "rows": [
+        {
+         "id": "r15",
+         "label": {
+          "en": "Company",
+          "id": "Perusahaan"
+         },
+         "value": {
+          "en": "PT Berkat Muri Sejahtera",
+          "id": "PT Berkat Muri Sejahtera"
+         }
+        },
+        {
+         "id": "r16",
+         "label": {
+          "en": "Type",
+          "id": "Jenis"
+         },
+         "value": {
+          "en": "Indonesian trading company",
+          "id": "Perusahaan perdagangan Indonesia"
+         }
+        },
+        {
+         "id": "r17",
+         "label": {
+          "en": "Established",
+          "id": "Berdiri"
+         },
+         "value": {
+          "en": "2025",
+          "id": "2025"
+         }
+        },
+        {
+         "id": "r18",
+         "label": {
+          "en": "Based in",
+          "id": "Berkedudukan di"
+         },
+         "value": {
+          "en": "Jakarta, Indonesia",
+          "id": "Jakarta, Indonesia"
+         }
+        },
+        {
+         "id": "r19",
+         "label": {
+          "en": "Focus",
+          "id": "Fokus"
+         },
+         "value": {
+          "en": "Sourcing, aggregation, distribution",
+          "id": "Pengadaan, agregasi, distribusi"
+         }
+        },
+        {
+         "id": "r20",
+         "label": {
+          "en": "NIB",
+          "id": "NIB"
+         },
+         "value": {
+          "en": "{nib}",
+          "id": "{nib}"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "about-21",
+     "kind": "cta",
+     "name": "Call to action",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 52,
+      "padBottom": 28,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 40,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "about-22",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "about-23",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "Looking for a product or have supply?",
+          "id": "Sedang mencari produk atau memiliki pasokan?"
+         }
+        },
+        {
+         "id": "about-24",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "If you are looking for a product or want to offer supply, contact the BMS team to discuss your needs and availability.",
+          "id": "Jika Anda mencari produk atau ingin menawarkan pasokan, hubungi tim BMS untuk membahas kebutuhan dan ketersediaan pasokan."
+         }
+        }
+       ]
+      },
+      {
+       "id": "about-25",
+       "visible": true,
+       "style": {},
+       "type": "button",
+       "variant": "maize",
+       "size": "lg",
+       "label": {
+        "en": "CONTACT US",
+        "id": "HUBUNGI KAMI"
+       },
+       "href": "@contact"
+      }
+     ]
+    }
+   ],
+   "inBar": true,
+   "inMenu": true
+  },
+  {
+   "id": "catalogue",
+   "name": {
+    "en": "Product Catalogue",
+    "id": "Katalog Material"
+   },
+   "slug": {
+    "en": "catalogue",
+    "id": "katalog"
+   },
+   "title": {
+    "en": "Materials Catalogue | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Katalog Material | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "Agricultural commodities, bio-based and industrial materials. Contact BMS to order or to supply.",
+    "id": "Komoditas pertanian, bahan berbasis hayati, dan material industri. Hubungi BMS untuk memesan atau memasok."
+   },
+   "sections": [
+    {
+     "id": "catalogue-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "variant": "head-gold",
+     "children": [
+      {
+       "id": "catalogue-2",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "Catalogue",
+        "id": "Katalog"
+       }
+      },
+      {
+       "id": "catalogue-3",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "Materials Catalogue",
+        "id": "Katalog Material"
+       }
+      },
+      {
+       "id": "catalogue-4",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "Agricultural commodities and materials we supply. Need a material, or can you supply one? Start here.",
+        "id": "Komoditas dan material pertanian yang kami pasok. Butuh material, atau bisa memasok? Mulai dari sini."
+       }
+      }
+     ]
+    },
+    {
+     "id": "catalogue-5",
+     "kind": "catalogue",
+     "name": "Catalogue grid",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 3,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 16,
+      "align": "left"
+     },
+     "children": []
+    }
+   ],
+   "inBar": true,
+   "inMenu": true
+  },
+  {
+   "id": "contact",
+   "name": {
+    "en": "Contact Us",
+    "id": "Hubungi Kami"
+   },
+   "slug": {
+    "en": "contact",
+    "id": "kontak"
+   },
+   "title": {
+    "en": "Contact Us | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Hubungi Kami | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "Contact BMS by WhatsApp or email. Suppliers offer Product; buyers send an enquiry.",
+    "id": "Hubungi BMS lewat WhatsApp atau email. Supplier menawarkan material; buyer mengirim permintaan."
+   },
+   "sections": [
+    {
+     "id": "contact-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "variant": "head-maize",
+     "children": [
+      {
+       "id": "contact-2",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "Contact Us",
+        "id": "Hubungi Kami"
+       }
+      },
+      {
+       "id": "contact-3",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "How would you like to reach BMS?",
+        "id": "Bagaimana Anda ingin menghubungi BMS?"
+       }
+      },
+      {
+       "id": "contact-4",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "Choose the option that fits you. We reply on the channel you use.",
+        "id": "Pilih opsi yang sesuai. Kami membalas lewat saluran yang Anda gunakan."
+       }
+      }
+     ]
+    },
+    {
+     "id": "contact-5",
+     "kind": "content",
+     "name": "Section",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "contact-6",
+       "visible": true,
+       "style": {
+        "layout": "grid",
+        "gap": 20,
+        "columns": 2,
+        "width": 58
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "contact-7",
+         "visible": true,
+         "style": {
+          "layout": "stack",
+          "gap": 0
+         },
+         "type": "container",
+         "variant": "card",
+         "children": [
+          {
+           "id": "contact-8",
+           "visible": true,
+           "style": {},
+           "type": "eyebrow",
+           "text": {
+            "en": "I am a supplier",
+            "id": "Saya supplier"
+           }
+          },
+          {
+           "id": "contact-9",
+           "visible": true,
+           "style": {},
+           "type": "heading",
+           "level": 2,
+           "text": {
+            "en": "Offer Product to BMS",
+            "id": "Tawarkan material ke BMS"
+           }
+          },
+          {
+           "id": "contact-10",
+           "visible": true,
+           "style": {},
+           "type": "paragraph",
+           "text": {
+            "en": "Send us a message and we will reply.",
+            "id": "Kirim pesan dan kami akan membalas."
+           }
+          },
+          {
+           "id": "contact-11",
+           "visible": true,
+           "style": {
+            "layout": "stack",
+            "gap": 10
+           },
+           "type": "container",
+           "children": [
+            {
+             "id": "contact-12",
+             "visible": true,
+             "style": {},
+             "type": "button",
+             "variant": "gold",
+             "size": "md",
+             "label": {
+              "en": "CONTACT US",
+              "id": "HUBUNGI KAMI"
+             },
+             "href": "@whatsapp?text=Hello%20BMS%2C%20I%20would%20like%20to%20offer%20Product%20as%20a%20supplier.",
+             "hrefId": "@whatsapp?text=Halo%20BMS%2C%20saya%20ingin%20menawarkan%20material%20sebagai%20supplier."
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "contact-13",
+         "visible": true,
+         "style": {
+          "layout": "stack",
+          "gap": 0
+         },
+         "type": "container",
+         "variant": "card",
+         "children": [
+          {
+           "id": "contact-14",
+           "visible": true,
+           "style": {},
+           "type": "eyebrow",
+           "text": {
+            "en": "I am a buyer",
+            "id": "Saya buyer"
+           }
+          },
+          {
+           "id": "contact-15",
+           "visible": true,
+           "style": {},
+           "type": "heading",
+           "level": 2,
+           "text": {
+            "en": "Ask BMS for a material",
+            "id": "Tanyakan material ke BMS"
+           }
+          },
+          {
+           "id": "contact-16",
+           "visible": true,
+           "style": {},
+           "type": "paragraph",
+           "text": {
+            "en": "Tell us what you need and we will reply.",
+            "id": "Sampaikan kebutuhan Anda dan kami akan membalas."
+           }
+          },
+          {
+           "id": "contact-17",
+           "visible": true,
+           "style": {
+            "layout": "stack",
+            "gap": 10
+           },
+           "type": "container",
+           "children": [
+            {
+             "id": "contact-18",
+             "visible": true,
+             "style": {},
+             "type": "button",
+             "variant": "forest",
+             "size": "md",
+             "label": {
+              "en": "CONTACT US",
+              "id": "HUBUNGI KAMI"
+             },
+             "href": "@whatsapp?text=Hello%20BMS%2C%20I%20would%20like%20to%20ask%20about%20a%20material.",
+             "hrefId": "@whatsapp?text=Halo%20BMS%2C%20saya%20ingin%20menanyakan%20sebuah%20material."
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "inBar": true,
+   "inMenu": true
+  },
+  {
+   "id": "corn-cobs",
+   "name": {
+    "en": "Corn cobs",
+    "id": "Tongkol Jagung"
+   },
+   "slug": {
+    "en": "corn-cobs",
+    "id": "corn-cobs"
+   },
+   "title": {
+    "en": "Corn Cobs | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Tongkol Jagung | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "Corn cobs are one of the agricultural materials BMS trades, processed to your needs.",
+    "id": "Tongkol jagung adalah salah satu material pertanian yang diperdagangkan BMS, diolah sesuai kebutuhan Anda."
+   },
+   "sections": [
+    {
+     "id": "corn-cobs-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "variant": "head-maize",
+     "children": [
+      {
+       "id": "corn-cobs-2",
+       "visible": true,
+       "style": {
+        "layout": "row",
+        "gap": 6
+       },
+       "type": "container",
+       "variant": "crumbs",
+       "children": [
+        {
+         "id": "corn-cobs-3",
+         "visible": true,
+         "style": {},
+         "type": "link",
+         "label": {
+          "en": "Home",
+          "id": "Beranda"
+         },
+         "href": "@home"
+        },
+        {
+         "id": "corn-cobs-4",
+         "visible": true,
+         "style": {},
+         "type": "link",
+         "label": {
+          "en": "Catalogue",
+          "id": "Katalog"
+         },
+         "href": "@catalogue"
+        },
+        {
+         "id": "corn-cobs-5",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Corn Cobs",
+          "id": "Tongkol Jagung"
+         }
+        }
+       ]
+      },
+      {
+       "id": "corn-cobs-6",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "Agricultural commodities",
+        "id": "Komoditas pertanian"
+       }
+      },
+      {
+       "id": "corn-cobs-7",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "Corn Cobs",
+        "id": "Tongkol Jagung"
+       }
+      },
+      {
+       "id": "corn-cobs-8",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "An agricultural material BMS can source and supply, processed to your needs.",
+        "id": "Material pertanian yang dapat BMS carikan dan pasok, diolah sesuai kebutuhan Anda."
+       }
+      },
+      {
+       "id": "corn-cobs-9",
+       "visible": true,
+       "style": {
+        "layout": "grid",
+        "gap": 8,
+        "columns": 2,
+        "maxWidth": 360
+       },
+       "type": "container",
+       "variant": "pair",
+       "children": [
+        {
+         "id": "corn-cobs-10",
+         "visible": true,
+         "style": {},
+         "type": "button",
+         "variant": "forest",
+         "size": "md",
+         "label": {
+          "en": "BUY",
+          "id": "BELI"
+         },
+         "href": "@buyers?material=corn-cobs"
+        },
+        {
+         "id": "corn-cobs-11",
+         "visible": true,
+         "style": {},
+         "type": "button",
+         "variant": "gold",
+         "size": "md",
+         "label": {
+          "en": "SUPPLY",
+          "id": "PASOK"
+         },
+         "href": "@supplier?material=corn-cobs"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "corn-cobs-12",
+     "kind": "content",
+     "name": "Section",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 40,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "corn-cobs-13",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "corn-cobs-14",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "About corn cobs",
+          "id": "Tentang tongkol jagung"
+         }
+        },
+        {
+         "id": "corn-cobs-15",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Corn cobs are one of the materials BMS trades. Specifications are discussed according to each buyer's requirements.",
+          "id": "Tongkol jagung adalah salah satu material yang diperdagangkan BMS. Spesifikasi dibahas sesuai kebutuhan masing-masing pembeli."
+         }
+        },
+        {
+         "id": "corn-cobs-16",
+         "visible": true,
+         "style": {},
+         "type": "eyebrow",
+         "text": {
+          "en": "Potential uses",
+          "id": "Potensi penggunaan"
+         }
+        },
+        {
+         "id": "corn-cobs-17",
+         "visible": true,
+         "style": {
+          "layout": "row",
+          "gap": 8
+         },
+         "type": "container",
+         "variant": "chips",
+         "children": [
+          {
+           "id": "corn-cobs-18",
+           "visible": true,
+           "style": {},
+           "type": "paragraph",
+           "text": {
+            "en": "Cosmetics / personal care",
+            "id": "Kosmetik / perawatan diri"
+           }
+          },
+          {
+           "id": "corn-cobs-19",
+           "visible": true,
+           "style": {},
+           "type": "paragraph",
+           "text": {
+            "en": "Industrial applications",
+            "id": "Aplikasi industri"
+           }
+          }
+         ]
+        },
+        {
+         "id": "corn-cobs-20",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "variant": "note",
+         "text": {
+          "en": "Suitability is confirmed through the buyer's own testing.",
+          "id": "Kesesuaian dikonfirmasi melalui pengujian pembeli sendiri."
+         }
+        }
+       ]
+      },
+      {
+       "id": "corn-cobs-21",
+       "visible": true,
+       "style": {},
+       "type": "facts",
+       "rows": [
+        {
+         "id": "r22",
+         "label": {
+          "en": "Sourcing",
+          "id": "Pengadaan"
+         },
+         "value": {
+          "en": "Collectors, plantations and logistics partners",
+          "id": "Pengepul, perkebunan, dan mitra logistik"
+         }
+        },
+        {
+         "id": "r23",
+         "label": {
+          "en": "Processing",
+          "id": "Pengolahan"
+         },
+         "value": {
+          "en": "Processed to needs",
+          "id": "Diolah sesuai kebutuhan"
+         }
+        },
+        {
+         "id": "r24",
+         "label": {
+          "en": "Packing & shipping",
+          "id": "Kemasan & pengiriman"
+         },
+         "value": {
+          "en": "Considered as part of each enquiry",
+          "id": "Dipertimbangkan dalam setiap permintaan"
+         }
+        },
+        {
+         "id": "r25",
+         "label": {
+          "en": "Volumes",
+          "id": "Volume"
+         },
+         "value": {
+          "en": "Information coming soon",
+          "id": "Informasi segera hadir"
+         },
+         "soon": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "corn-cobs-26",
+     "kind": "cta",
+     "name": "Call to action",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 52,
+      "padBottom": 28,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 40,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "corn-cobs-27",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 0
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "corn-cobs-28",
+         "visible": true,
+         "style": {},
+         "type": "heading",
+         "level": 2,
+         "text": {
+          "en": "Interested in corn cobs?",
+          "id": "Tertarik dengan tongkol jagung?"
+         }
+        },
+        {
+         "id": "corn-cobs-29",
+         "visible": true,
+         "style": {},
+         "type": "paragraph",
+         "text": {
+          "en": "Need corn cobs, or can you supply them? Talk to BMS.",
+          "id": "Butuh tongkol jagung, atau bisa memasoknya? Hubungi BMS."
+         }
+        }
+       ]
+      },
+      {
+       "id": "corn-cobs-30",
+       "visible": true,
+       "style": {},
+       "type": "button",
+       "variant": "maize",
+       "size": "lg",
+       "label": {
+        "en": "CONTACT US",
+        "id": "HUBUNGI KAMI"
+       },
+       "href": "@contact?material=corn-cobs"
+      }
+     ]
+    }
+   ],
+   "inBar": true,
+   "inMenu": false
+  },
+  {
+   "id": "buyers",
+   "name": {
+    "en": "For buyers",
+    "id": "Untuk buyer"
+   },
+   "slug": {
+    "en": "for-buyers",
+    "id": "untuk-buyer"
+   },
+   "title": {
+    "en": "For Buyers | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Untuk Buyer | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "Looking for agricultural or bio-based materials? Choose a material and send an enquiry to BMS.",
+    "id": "Mencari bahan pertanian atau berbasis hayati? Pilih material dan kirim permintaan ke BMS."
+   },
+   "sections": [
+    {
+     "id": "buyers-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "variant": "head-moss",
+     "children": [
+      {
+       "id": "buyers-2",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "For buyers",
+        "id": "Untuk buyer"
+       }
+      },
+      {
+       "id": "buyers-3",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "Looking for a material? Ask BMS.",
+        "id": "Mencari material? Tanyakan ke BMS."
+       }
+      },
+      {
+       "id": "buyers-4",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "Browse the catalogue, pick a material and tell us what you need. Specifications, packing and delivery are discussed per enquiry.",
+        "id": "Lihat katalog, pilih material, dan sampaikan kebutuhan Anda. Spesifikasi, kemasan, dan pengiriman dibahas per permintaan."
+       }
+      }
+     ]
+    },
+    {
+     "id": "buyers-5",
+     "kind": "form",
+     "name": "Enquiry form",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 32,
+      "align": "left"
+     },
+     "form": "buyer",
+     "formTitle": {
+      "en": "Send an enquiry",
+      "id": "Kirim permintaan"
+     },
+     "formHint": {
+      "en": "",
+      "id": ""
+     },
+     "children": [
+      {
+       "id": "buyers-6",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 2,
+       "text": {
+        "en": "Prefer to talk?",
+        "id": "Lebih suka bicara langsung?"
+       }
+      },
+      {
+       "id": "buyers-7",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "text": {
+        "en": "Message the team directly about a material or quantity.",
+        "id": "Kirim pesan langsung ke tim tentang material atau jumlah."
+       }
+      },
+      {
+       "id": "buyers-8",
+       "visible": true,
+       "style": {
+        "layout": "row",
+        "gap": 12
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "buyers-9",
+         "visible": true,
+         "style": {},
+         "type": "button",
+         "variant": "maize",
+         "size": "md",
+         "label": {
+          "en": "WhatsApp us",
+          "id": "WhatsApp kami"
+         },
+         "href": "@whatsapp?text=Hello%20BMS%2C%20I%20would%20like%20to%20ask%20about%20a%20material.",
+         "hrefId": "@whatsapp?text=Halo%20BMS%2C%20saya%20ingin%20menanyakan%20sebuah%20material."
+        },
+        {
+         "id": "buyers-10",
+         "visible": true,
+         "style": {},
+         "type": "button",
+         "variant": "line",
+         "size": "md",
+         "label": {
+          "en": "Email us",
+          "id": "Kirim email"
+         },
+         "href": "@email?subject=Buyer%20enquiry",
+         "hrefId": "@email?subject=Permintaan%20buyer"
+        }
+       ]
+      },
+      {
+       "id": "buyers-11",
+       "visible": true,
+       "style": {},
+       "type": "link",
+       "label": {
+        "en": "Browse the materials catalogue →",
+        "id": "Lihat katalog material →"
+       },
+       "href": "@catalogue"
+      }
+     ]
+    }
+   ],
+   "inBar": false,
+   "inMenu": false
+  },
+  {
+   "id": "supplier",
+   "name": {
+    "en": "For suppliers",
+    "id": "Untuk supplier"
+   },
+   "slug": {
+    "en": "become-a-supplier",
+    "id": "jadi-supplier"
+   },
+   "title": {
+    "en": "Become a Supplier | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Jadi Supplier | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "Have agricultural or bio-based materials to sell? Offer them to BMS by WhatsApp, email or a short form.",
+    "id": "Punya bahan pertanian atau berbasis hayati untuk dijual? Tawarkan ke BMS lewat WhatsApp, email, atau formulir singkat."
+   },
+   "sections": [
+    {
+     "id": "supplier-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "variant": "head-gold",
+     "children": [
+      {
+       "id": "supplier-2",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "For suppliers",
+        "id": "Untuk supplier"
+       }
+      },
+      {
+       "id": "supplier-3",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "Have materials to sell? Offer them to BMS.",
+        "id": "Punya material untuk dijual? Tawarkan ke BMS."
+       }
+      },
+      {
+       "id": "supplier-4",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "Farmers, farmer associations, collectors and other suppliers are welcome. No formal documents are needed to make a first enquiry.",
+        "id": "Petani, kelompok tani, pengepul, dan pemasok lain dipersilakan. Tidak perlu dokumen formal untuk pertanyaan pertama."
+       }
+      }
+     ]
+    },
+    {
+     "id": "supplier-5",
+     "kind": "content",
+     "name": "Section",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "supplier-6",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 2,
+       "text": {
+        "en": "How it works for suppliers",
+        "id": "Alur untuk supplier"
+       }
+      },
+      {
+       "id": "supplier-7",
+       "visible": true,
+       "style": {
+        "layout": "row",
+        "gap": 0
+       },
+       "type": "container",
+       "variant": "steps",
+       "children": [
+        {
+         "id": "supplier-8",
+         "visible": true,
+         "style": {},
+         "type": "card",
+         "variant": "step",
+         "src": "",
+         "title": {
+          "en": "Tell us what you have",
+          "id": "Sampaikan yang Anda miliki"
+         },
+         "text": {
+          "en": "Material, rough quantity and where it is.",
+          "id": "Material, perkiraan jumlah, dan lokasinya."
+         }
+        },
+        {
+         "id": "supplier-9",
+         "visible": true,
+         "style": {},
+         "type": "card",
+         "variant": "step",
+         "src": "",
+         "title": {
+          "en": "BMS reviews it",
+          "id": "BMS meninjau"
+         },
+         "text": {
+          "en": "We check whether it matches what buyers ask for.",
+          "id": "Kami menilai apakah sesuai permintaan pembeli."
+         }
+        },
+        {
+         "id": "supplier-10",
+         "visible": true,
+         "style": {},
+         "type": "card",
+         "variant": "step",
+         "src": "",
+         "title": {
+          "en": "We get in touch",
+          "id": "Kami menghubungi Anda"
+         },
+         "text": {
+          "en": "Our team replies to discuss the next step.",
+          "id": "Tim kami membalas untuk membahas langkah berikutnya."
+         }
+        }
+       ]
+      },
+      {
+       "id": "supplier-11",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 3,
+       "text": {
+        "en": "What you can offer",
+        "id": "Yang dapat Anda tawarkan"
+       }
+      },
+      {
+       "id": "supplier-12",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "muted",
+       "text": {
+        "en": "Any material in our catalogue, or another agricultural, bio-based or industrial material you think buyers may need.",
+        "id": "Material apa pun di katalog kami, atau material pertanian, berbasis hayati, atau industri lain yang menurut Anda dibutuhkan pembeli."
+       }
+      },
+      {
+       "id": "supplier-13",
+       "visible": true,
+       "style": {},
+       "type": "link",
+       "label": {
+        "en": "See the catalogue →",
+        "id": "Lihat katalog →"
+       },
+       "href": "@catalogue"
+      }
+     ]
+    },
+    {
+     "id": "supplier-14",
+     "kind": "form",
+     "name": "Enquiry form",
+     "visible": true,
+     "style": {
+      "layout": "columns",
+      "columns": 2,
+      "padTop": 56,
+      "padBottom": 56,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 32,
+      "align": "left"
+     },
+     "form": "supplier",
+     "variant": "alt",
+     "formTitle": {
+      "en": "Or send a short form",
+      "id": "Atau kirim formulir singkat"
+     },
+     "formHint": {
+      "en": "This opens WhatsApp with your details written out. Just tap send.",
+      "id": "Ini membuka WhatsApp dengan detail Anda sudah tertulis. Tinggal tekan kirim."
+     },
+     "children": [
+      {
+       "id": "supplier-15",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 2,
+       "text": {
+        "en": "Contact BMS as a supplier",
+        "id": "Hubungi BMS sebagai supplier"
+       }
+      },
+      {
+       "id": "supplier-16",
+       "visible": true,
+       "style": {
+        "layout": "stack",
+        "gap": 16
+       },
+       "type": "container",
+       "variant": "channels",
+       "children": [
+        {
+         "id": "supplier-17",
+         "visible": true,
+         "style": {
+          "layout": "stack",
+          "gap": 0
+         },
+         "type": "container",
+         "variant": "channel",
+         "children": [
+          {
+           "id": "supplier-18",
+           "visible": true,
+           "style": {},
+           "type": "heading",
+           "level": 3,
+           "text": {
+            "en": "Quick chat on WhatsApp",
+            "id": "Chat cepat lewat WhatsApp"
+           }
+          },
+          {
+           "id": "supplier-19",
+           "visible": true,
+           "style": {},
+           "type": "paragraph",
+           "text": {
+            "en": "Best for a first conversation. Send a message, a photo or a voice note.",
+            "id": "Cocok untuk percakapan awal. Kirim pesan, foto, atau pesan suara."
+           }
+          },
+          {
+           "id": "supplier-20",
+           "visible": true,
+           "style": {},
+           "type": "button",
+           "variant": "gold",
+           "size": "md",
+           "label": {
+            "en": "Offer on WhatsApp",
+            "id": "Tawarkan lewat WhatsApp"
+           },
+           "href": "@whatsapp?text=Hello%20BMS%2C%20I%20would%20like%20to%20offer%20materials%20as%20a%20supplier.",
+           "hrefId": "@whatsapp?text=Halo%20BMS%2C%20saya%20ingin%20menawarkan%20material%20sebagai%20supplier."
+          }
+         ]
+        },
+        {
+         "id": "supplier-21",
+         "visible": true,
+         "style": {
+          "layout": "stack",
+          "gap": 0
+         },
+         "type": "container",
+         "variant": "channel",
+         "children": [
+          {
+           "id": "supplier-22",
+           "visible": true,
+           "style": {},
+           "type": "heading",
+           "level": 3,
+           "text": {
+            "en": "Formal proposal by email",
+            "id": "Proposal formal lewat email"
+           }
+          },
+          {
+           "id": "supplier-23",
+           "visible": true,
+           "style": {},
+           "type": "paragraph",
+           "text": {
+            "en": "Best for documents, specifications or detailed offers.",
+            "id": "Cocok untuk dokumen, spesifikasi, atau penawaran rinci."
+           }
+          },
+          {
+           "id": "supplier-24",
+           "visible": true,
+           "style": {},
+           "type": "button",
+           "variant": "line",
+           "size": "md",
+           "label": {
+            "en": "Send an email",
+            "id": "Kirim email"
+           },
+           "href": "@email?subject=Supplier%20enquiry",
+           "hrefId": "@email?subject=Penawaran%20supplier"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "inBar": false,
+   "inMenu": false
+  },
+  {
+   "id": "404",
+   "name": {
+    "en": "Page not found",
+    "id": "Halaman tidak ditemukan"
+   },
+   "slug": {
+    "en": "404",
+    "id": "404"
+   },
+   "title": {
+    "en": "Page not found | PT Berkat Muri Sejahtera (BMS)",
+    "id": "Halaman tidak ditemukan | PT Berkat Muri Sejahtera (BMS)"
+   },
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "inBar": false,
+   "inMenu": false,
+   "sections": [
+    {
+     "id": "404-1",
+     "kind": "band",
+     "name": "Page header",
+     "visible": true,
+     "style": {
+      "layout": "stack",
+      "columns": 1,
+      "padTop": 40,
+      "padBottom": 40,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "gap": 0,
+      "align": "left"
+     },
+     "children": [
+      {
+       "id": "404-2",
+       "visible": true,
+       "style": {},
+       "type": "eyebrow",
+       "text": {
+        "en": "404",
+        "id": "404"
+       }
+      },
+      {
+       "id": "404-3",
+       "visible": true,
+       "style": {},
+       "type": "heading",
+       "level": 1,
+       "text": {
+        "en": "Page not found",
+        "id": "Halaman tidak ditemukan"
+       }
+      },
+      {
+       "id": "404-4",
+       "visible": true,
+       "style": {},
+       "type": "paragraph",
+       "variant": "lead",
+       "text": {
+        "en": "The page you are looking for does not exist.",
+        "id": "Halaman yang Anda cari tidak ditemukan."
+       }
+      },
+      {
+       "id": "404-5",
+       "visible": true,
+       "style": {
+        "layout": "row",
+        "gap": 12
+       },
+       "type": "container",
+       "children": [
+        {
+         "id": "404-6",
+         "visible": true,
+         "style": {},
+         "type": "button",
+         "label": {
+          "en": "Home",
+          "id": "Beranda"
+         },
+         "href": "@home",
+         "variant": "forest",
+         "size": "md"
+        },
+        {
+         "id": "404-7",
+         "visible": true,
+         "style": {},
+         "type": "button",
+         "label": {
+          "en": "Contact us",
+          "id": "Hubungi kami"
+         },
+         "href": "@contact",
+         "variant": "gold",
+         "size": "md"
+        }
+       ]
+      }
+     ],
+     "variant": "head-maize"
+    }
+   ]
+  }
+ ],
+ "catalogue": [
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/corn-cobs.webp",
+   "visible": true,
+   "id": "m1",
+   "slug": "corn-cobs",
+   "cat": "agri",
+   "name": {
+    "en": "Corn Cobs",
+    "id": "Tongkol Jagung"
+   },
+   "detail": true
+  },
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/cocoa.webp",
+   "visible": true,
+   "id": "m2",
+   "slug": "cocoa",
+   "cat": "agri",
+   "name": {
+    "en": "Cocoa",
+    "id": "Kakao"
+   }
+  },
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/candlenuts.webp",
+   "visible": true,
+   "id": "m3",
+   "slug": "candlenuts",
+   "cat": "agri",
+   "name": {
+    "en": "Candlenuts",
+    "id": "Kemiri"
+   }
+  },
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/rubber-seeds.webp",
+   "visible": true,
+   "id": "m4",
+   "slug": "rubber-seeds",
+   "cat": "agri",
+   "name": {
+    "en": "Rubber Seeds",
+    "id": "Biji Karet"
+   }
+  },
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/rubber-seed-oil.webp",
+   "visible": true,
+   "id": "m5",
+   "slug": "rubber-seed-oil",
+   "cat": "bio",
+   "name": {
+    "en": "Rubber Seed Oil",
+    "id": "Minyak Biji Karet"
+   }
+  },
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/cnsl.webp",
+   "visible": true,
+   "id": "m6",
+   "slug": "cnsl",
+   "cat": "bio",
+   "name": {
+    "en": "CNSL",
+    "id": "CNSL"
+   }
+  },
+  {
+   "desc": {
+    "en": "",
+    "id": ""
+   },
+   "image": "/assets/img/petrochemicals.webp",
+   "visible": true,
+   "id": "m7",
+   "slug": "petrochemicals",
+   "cat": "industrial",
+   "name": {
+    "en": "Petrochemicals",
+    "id": "Petrokimia"
+   }
+  }
+ ],
+ "design": {
+  "primary": "#2a8c12",
+  "secondary": "#DD9C00",
+  "background": "#FBF7E6",
+  "font": "default",
+  "h1": 0,
+  "body": 16,
+  "buttonStyle": "solid",
+  "buttonRadius": 6,
+  "sectionSpacing": 100,
+  "contentWidth": 1120
+ }
+}

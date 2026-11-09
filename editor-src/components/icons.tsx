@@ -1,0 +1,27 @@
+import type { ReactNode } from "react";
+const sv = (d: ReactNode, s = 16) => <svg width={s} height={s} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">{d}</svg>;
+export const I = {
+  grip: sv(<><circle cx="9" cy="6" r="1" /><circle cx="15" cy="6" r="1" /><circle cx="9" cy="12" r="1" /><circle cx="15" cy="12" r="1" /><circle cx="9" cy="18" r="1" /><circle cx="15" cy="18" r="1" /></>),
+  up: sv(<path d="m6 15 6-6 6 6" />), down: sv(<path d="m6 9 6 6 6-6" />),
+  copy: sv(<><rect x="9" y="9" width="11" height="11" rx="2" /><path d="M5 15V6a2 2 0 0 1 2-2h9" /></>),
+  eye: sv(<><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z" /><circle cx="12" cy="12" r="3" /></>),
+  eyeOff: sv(<><path d="M3 3l18 18" /><path d="M10.6 6.1A9.8 9.8 0 0 1 12 5c6.5 0 10 7 10 7a17 17 0 0 1-3.2 4M6.5 6.6C3.7 8.4 2 12 2 12s3.5 7 10 7a9.7 9.7 0 0 0 4-.9" /></>),
+  trash: sv(<><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3" /></>),
+  undo: sv(<><path d="M9 14 4 9l5-5" /><path d="M4 9h10a6 6 0 0 1 0 12h-3" /></>),
+  redo: sv(<><path d="m15 14 5-5-5-5" /><path d="M20 9H10a6 6 0 0 0 0 12h3" /></>),
+  desktop: sv(<><rect x="2" y="4" width="20" height="13" rx="2" /><path d="M8 21h8M12 17v4" /></>),
+  tablet: sv(<><rect x="5" y="2" width="14" height="20" rx="2" /><path d="M11 18h2" /></>),
+  mobile: sv(<><rect x="7" y="2" width="10" height="20" rx="2" /><path d="M11 18h2" /></>),
+  play: sv(<path d="m6 4 14 8-14 8z" />), reset: sv(<><path d="M3 12a9 9 0 1 0 3-6.7L3 8" /><path d="M3 3v5h5" /></>),
+  plus: sv(<path d="M12 5v14M5 12h14" />), chev: sv(<path d="m9 6 6 6-6 6" />), x: sv(<path d="M6 6l12 12M18 6 6 18" />),
+  layers: sv(<><path d="m12 3 9 5-9 5-9-5z" /><path d="m3 13 9 5 9-5" /></>),
+  home: sv(<><path d="M3 11 12 3l9 8" /><path d="M5 10v10h14V10" /></>),
+  edit: sv(<><path d="M4 20h4L19 9l-4-4L4 16z" /></>),
+  pages: sv(<><path d="M6 3h9l4 4v14H6z" /><path d="M14 3v5h5" /></>),
+  box: sv(<><path d="M12 3 4 7v10l8 4 8-4V7z" /><path d="m4 7 8 4 8-4M12 11v10" /></>),
+  image: sv(<><rect x="3" y="4" width="18" height="16" rx="2" /><circle cx="9" cy="10" r="2" /><path d="m21 17-5-5-9 8" /></>),
+  globe: sv(<><circle cx="12" cy="12" r="9" /><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18" /></>),
+  palette: sv(<><path d="M12 3a9 9 0 1 0 0 18c1.5 0 2-1 1.5-2s0-2.5 1.5-2.5H17a4 4 0 0 0 4-4C21 6.5 17 3 12 3z" /><circle cx="7.5" cy="11" r="1" /><circle cx="10" cy="7" r="1" /><circle cx="15" cy="7.5" r="1" /></>),
+  mail: sv(<><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 7 9 6 9-6" /></>), lock: sv(<><rect x="5" y="11" width="14" height="9" rx="2" /><path d="M8 11V8a4 4 0 0 1 8 0v3" /></>),
+  back: sv(<path d="M15 6l-6 6 6 6" />), upload: sv(<><path d="M12 16V4M7 9l5-5 5 5" /><path d="M4 20h16" /></>),
+};
